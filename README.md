@@ -25,4 +25,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*xDi2csEAWxu95IEkaNdFUQ.png" alt="React-Native" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="[https://miro.medium.com/v2/resize:fit:828/format:webp/1*xDi2csEAWxu95IEkaNdFUQ.png](https://www.svgrepo.com/show/521303/react-16.svg)" alt="React-Native" width="40" height="40"/> </a> 
