@@ -34,8 +34,8 @@
   </div>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanshoukat3324&show_icons=true&locale=en" alt="rizwanshoukat3324" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamahmad5488&show_icons=true&locale=en" alt="ahtishamahmad5488" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanshoukat3324&" alt="rizwanshoukat3324" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamahmad5488&" alt="ahtishamahmad5488" /></p>
 
 
