@@ -29,13 +29,13 @@
 
 <div>
   <h3 align="left">Support:</h3>
-  <div style="display: flex; align-items: center;flex-direction:row">
+  <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamahmad5488&show_icons=true&locale=en&layout=compact" alt="GitHub Readme Stats" />
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamahmad5488&show_icons=true&locale=en" alt="ahtishamahmad5488" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamahmad5488&" alt="ahtishamahmad5488" /></p>
   </div>
 </div>
 
-
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamahmad5488&show_icons=true&locale=en" alt="ahtishamahmad5488" /></p>
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamahmad5488&" alt="ahtishamahmad5488" /></p>
 
 
