@@ -25,4 +25,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://vectorified.com/images/icon-react-native-24.png" alt="React-Native" width="40" height="40"/> </a> <a href="https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW" target="_blank" rel="noreferrer"> <img src="https://iconscout.com/free-3d-illustration/javascript-9294848" alt="JavaScript" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://vectorified.com/images/icon-react-native-24.png" alt="React-Native" width="40" height="40"/> </a> <a href="https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" alt="JavaScript" width="40" height="40"/> </a> 
