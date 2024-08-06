@@ -23,3 +23,6 @@
 <a href="https://www.facebook.com/ahtisham.ahmad.3532?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizwan-shoukat3324" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itx_ahtisham__awan?igsh=MTJqYWUwZ3I5aWxrdQ==" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" alt="ahtishamahmad5488" height="40" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*xDi2csEAWxu95IEkaNdFUQ.png" alt="React-Native" width="40" height="40"/> </a> 
